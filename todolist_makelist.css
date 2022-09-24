@@ -1,0 +1,118 @@
+<style>
+body {
+	background-color: #E6E6FA;
+}
+.heading{
+	text-align: center;
+	margin: 30px auto;
+	
+}
+body {
+	background-color: #E6E6FA;
+}
+form {
+	width: 50%; 
+	margin: auto; 
+	
+}
+.task_input {
+	width: 70%;
+	height: 30px; 
+	padding: 15px;
+	
+}
+.add_btn {
+	height: 30px;
+	background: #00FF00;
+	border: 2px solid #6B8E23;
+	
+	
+}
+
+
+
+table {
+    width: 50%;
+    margin: 30px auto;
+    border-collapse: collapse;
+}
+
+tr {
+	width: 60px;
+	border-bottom: 2px solid #cbcbcb;
+}
+
+th {
+	width: 60px;
+	font-size: 19px;
+}
+
+tr td{
+	width: 60px;
+	border: none;
+    height: 30px
+}
+tr:hover {
+	background: #E9E9E9;
+}
+
+</style>
+<style>
+body {
+	background-color: #E6E6FA;
+}
+.heading{
+	text-align: center;
+	margin: 30px auto;
+	
+}
+body {
+	background-color: #E6E6FA;
+}
+form {
+	width: 50%; 
+	margin: auto; 
+	
+}
+.task_input {
+	width: 70%;
+	height: 30px; 
+	padding: 15px;
+	
+}
+.add_btn {
+	height: 30px;
+	background: #00FF00;
+	border: 2px solid #6B8E23;
+	
+	
+}
+
+
+
+table {
+    width: 50%;
+    margin: 30px auto;
+    border-collapse: collapse;
+}
+
+tr {
+	width: 60px;
+	border-bottom: 2px solid #cbcbcb;
+}
+
+th {
+	width: 60px;
+	font-size: 19px;
+}
+
+tr td{
+	width: 60px;
+	border: none;
+    height: 30px
+}
+tr:hover {
+	background: #E9E9E9;
+}
+
+</style>
